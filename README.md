@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azhar-data/azhar-data/main/assets/header.svg" width="100%" alt="Muhammad Azhar — AI / ML Engineer" />
+  <img src="https://github.com/azhar-data/azhar-data/blob/main/assets/footer.svg?raw=true" width="100%" alt="Muhammad Azhar footer" />
 </p>
 
 <p align="center">
