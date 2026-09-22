@@ -3,8 +3,15 @@
 </p>
 
 <p align="center">
-  <b>AI / Machine Learning Developer building practical intelligent systems.</b><br/>
-  Focused on AI assistants, automation, computer vision, NLP, and Python-based ML engineering.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+%2F+Machine+Learning+Developer;Building+AI+Assistants+%26+Automation;Python+%7C+Computer+Vision+%7C+NLP;Learning.+Building.+Shipping." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azhar-data&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/azhar-data?label=Followers&style=flat-square&color=6366f1" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/azhar-data?affiliations=OWNER&style=flat-square&label=Total%20Stars&color=8b5cf6" alt="GitHub stars"/>
 </p>
 
 <p align="center">
@@ -15,32 +22,80 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/azhar-data/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-## Featured Projects
+## 👋 About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I’m **Muhammad Azhar**, an AI / Machine Learning developer focused on building practical intelligent systems.
+
+- 🤖 Building a **voice-controlled AI PC Assistant**
+- 🧠 Exploring **Machine Learning, Deep Learning, NLP & Computer Vision**
+- ⚙️ Interested in **AI automation and agent-style workflows**
+- 🐍 Using **Python** as my main language for AI development
+- 🚀 Goal: turn experiments into **useful, end-to-end products**
+
+</td>
+<td width="42%" valign="top">
+
+```python
+class Azhar:
+    role = "AI / ML Developer"
+    language = "Python"
+    interests = [
+        "AI Assistants",
+        "Machine Learning",
+        "Computer Vision",
+        "Automation"
+    ]
+    mindset = "Learn → Build → Improve"
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 AI PC Assistant
-A voice-controlled personal-computer assistant designed to automate everyday desktop tasks such as opening applications, managing files, cleaning temporary files, and executing safe system actions.
 
-**Core ideas:** Python · Voice Commands · Automation · AI Assistant
+A voice-controlled personal computer assistant for everyday desktop automation.
 
-**Status:** Currently building
+**Planned capabilities**
+- Voice → intent → safe action
+- App launching & desktop control
+- File and temporary-file management
+- Modular skills / tools architecture
+- Natural-language commands
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Assistant-8B5CF6?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Building-22C55E?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ ARROWSTACK
-One of my public development projects, focused on building and shipping practical software.
 
-<a href="https://github.com/azhar-data/ARROWSTACK"><b>View repository →</b></a>
+A public development project focused on building and shipping practical software.
+
+![Repo](https://img.shields.io/badge/Public-Repository-0EA5E9?style=flat-square&logo=github)
+![Build](https://img.shields.io/badge/Focus-Build%20%26%20Ship-6366F1?style=flat-square)
+
+<a href="https://github.com/azhar-data/ARROWSTACK"><b>Explore ARROWSTACK →</b></a>
 
 </td>
 </tr>
@@ -49,17 +104,24 @@ One of my public development projects, focused on building and shipping practica
 <td width="50%" valign="top">
 
 ### 🌐 Portfolio
-My public portfolio project showcasing my work, development journey, and projects.
 
-<a href="https://github.com/azhar-data/Portfolio"><b>View repository →</b></a>
+My public portfolio project showcasing projects, development work, and my learning journey.
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Public-14B8A6?style=flat-square)
+![Web](https://img.shields.io/badge/Showcase-Projects-F59E0B?style=flat-square)
+
+<a href="https://github.com/azhar-data/Portfolio"><b>View Portfolio →</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 More AI Projects
-I am actively building projects across machine learning, computer vision, NLP, AI assistants, and automation.
+### 🧠 Next AI Projects
 
-**More projects coming soon.**
+More projects are on the way across:
+
+**Machine Learning · Computer Vision · NLP · AI Automation**
+
+I’m building toward a GitHub profile that demonstrates complete systems—not only notebooks.
 
 </td>
 </tr>
@@ -67,7 +129,7 @@ I am actively building projects across machine learning, computer vision, NLP, A
 
 ---
 
-## AI Engineering Domains
+## 🧠 AI Engineering Domains
 
 <p align="center">
   <img src="./assets/ai-domains.svg" width="100%" alt="AI engineering domains" />
@@ -75,48 +137,55 @@ I am actively building projects across machine learning, computer vision, NLP, A
 
 ---
 
-## Engineering Stack
+## 🛠️ Engineering Stack
 
 <p align="center">
   <img src="./assets/engineering-stack.svg" width="100%" alt="Engineering stack" />
 </p>
 
-### Languages, Frameworks & Tools
+<p align="center">
+  <b>Languages & Web</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Languages"/>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode,linux,docker,fastapi,flask,tensorflow,pytorch,opencv,mysql,postgres,mongodb&perline=9" alt="Technology stack"/>
+  <b>AI / ML</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI ML"/>
+</p>
+
+<p align="center">
+  <b>Backend · Data · Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres,mongodb,git,github,docker,linux,vscode&perline=10&theme=dark" alt="Backend data tools"/>
 </p>
 
 ---
 
-## What I Focus On
+## 🎯 What I Focus On
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
 ### 🧠 Applied AI
-Building AI systems that solve real problems rather than stopping at notebooks or model experiments.
+Real problems, useful systems, measurable outcomes.
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### 🤖 Intelligent Automation
-Combining AI with desktop workflows, APIs, tools, and system actions to reduce repetitive work.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 End-to-End ML
-Data preparation → training → evaluation → API/application integration → deployment.
+### 🤖 Automation
+AI connected with tools, workflows, and actions.
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### 📚 Continuous Learning
-Strengthening machine-learning foundations while shipping increasingly complete AI projects.
+### 📦 End-to-End
+From data and models to APIs and applications.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 📚 Growth
+Strong fundamentals plus consistent project building.
 
 </td>
 </tr>
@@ -124,45 +193,73 @@ Strengthening machine-learning foundations while shipping increasingly complete 
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azhar-data&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-data&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=azhar-data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-data&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azhar-data&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+  <img src="https://streak-stats.demolab.com?user=azhar-data&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azhar-data&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution graph"/>
 </p>
 
 ---
 
-## Currently Building
+## 🔨 Currently Building
 
-> **AI PC Assistant** — a practical voice-driven assistant for personal-computer control and everyday automation.
+> ### AI PC Assistant
+> A practical voice-driven assistant for personal-computer control and everyday automation.
 
-Current direction:
+```text
+Voice Input
+    ↓
+Speech Recognition
+    ↓
+Intent Understanding
+    ↓
+Safety / Permission Layer
+    ↓
+Tool or System Action
+    ↓
+Voice / UI Response
+```
 
-- Voice-to-command pipeline
-- Intent recognition
-- Safe command execution
-- File and temporary-file management
-- App launching and desktop automation
-- Modular skills / tools architecture
-- Optional LLM integration for natural-language commands
+**Current direction:** voice commands · intent recognition · safe execution · file management · app launching · desktop automation · modular tools · optional LLM integration
 
 ---
 
-## Connect
+## 💡 Developer Mindset
 
 <p align="center">
-  <a href="https://github.com/azhar-data">GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:azhararain8012@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/azhar-data/Portfolio">Portfolio</a>
+  <b>“Don’t just train the model. Build the system around it.”</b>
 </p>
 
 <p align="center">
-  <sub>Building useful AI, one project at a time.</sub>
+  I’m focused on becoming the kind of AI developer who can understand the model,<br/>
+  engineer the application, connect the tools, and ship something people can actually use.
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/azhar-data">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:azhararain8012@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/azhar-data/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Muhammad Azhar footer" />
 </p>
