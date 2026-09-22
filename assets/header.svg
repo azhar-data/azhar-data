@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071426"/>
+      <stop offset="100%" stop-color="#0d1f38"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="65" r="95" fill="#0ea5e9" opacity=".06"/>
+  <circle cx="1145" cy="245" r="150" fill="#3b82f6" opacity=".04"/>
+  <text x="64" y="82" fill="#93c5fd" font-family="Arial, sans-serif" font-size="22" font-weight="700">AI / MACHINE LEARNING</text>
+  <text x="64" y="145" fill="#ffffff" font-family="Arial, sans-serif" font-size="50" font-weight="800">Muhammad Azhar</text>
+  <text x="64" y="186" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="23">Python · Machine Learning · AI Assistants · Automation</text>
+  <g transform="translate(64 222)">
+    <rect x="0" y="0" width="138" height="38" rx="19" fill="#102a43"/>
+    <text x="69" y="25" text-anchor="middle" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="15" font-weight="700">BUILDING AI</text>
+    <rect x="152" y="0" width="150" height="38" rx="19" fill="#102a43"/>
+    <text x="227" y="25" text-anchor="middle" fill="#a5b4fc" font-family="Arial, sans-serif" font-size="15" font-weight="700">AUTOMATION</text>
+    <rect x="316" y="0" width="160" height="38" rx="19" fill="#102a43"/>
+    <text x="396" y="25" text-anchor="middle" fill="#86efac" font-family="Arial, sans-serif" font-size="15" font-weight="700">ML ENGINEERING</text>
+  </g>
+  <g transform="translate(775 58)">
+    <polyline points="0,146 55,115 108,131 164,78 220,92 285,34 350,50" fill="none" stroke="url(#line)" stroke-width="4"/>
+    <g fill="#60a5fa">
+      <circle cx="0" cy="146" r="6"/><circle cx="55" cy="115" r="6"/><circle cx="108" cy="131" r="6"/>
+      <circle cx="164" cy="78" r="6"/><circle cx="220" cy="92" r="6"/><circle cx="285" cy="34" r="6"/><circle cx="350" cy="50" r="6"/>
+    </g>
+    <g stroke="#1e3a5f" stroke-width="1" opacity=".7">
+      <line x1="0" y1="170" x2="350" y2="170"/><line x1="0" y1="120" x2="350" y2="120"/>
+      <line x1="0" y1="70" x2="350" y2="70"/><line x1="0" y1="20" x2="350" y2="20"/>
+    </g>
+  </g>
+</svg>
