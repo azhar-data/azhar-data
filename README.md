@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Muhammad Azhar — AI / ML Engineer" />
+  <img src="https://raw.githubusercontent.com/azhar-data/azhar-data/main/assets/header.svg" width="100%" alt="Muhammad Azhar — AI / ML Engineer" />
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ I’m building toward a GitHub profile that demonstrates complete systems—not 
 ## 🧠 AI Engineering Domains
 
 <p align="center">
-  <img src="./assets/ai-domains.svg" width="100%" alt="AI engineering domains" />
+  <img src="https://raw.githubusercontent.com/azhar-data/azhar-data/main/assets/ai-domains.svg" width="100%" alt="AI engineering domains" />
 </p>
 
 ---
@@ -140,7 +140,7 @@ I’m building toward a GitHub profile that demonstrates complete systems—not 
 ## 🛠️ Engineering Stack
 
 <p align="center">
-  <img src="./assets/engineering-stack.svg" width="100%" alt="Engineering stack" />
+  <img src="https://raw.githubusercontent.com/azhar-data/azhar-data/main/assets/engineering-stack.svg" width="100%" alt="Engineering stack" />
 </p>
 
 <p align="center">
@@ -196,16 +196,12 @@ Strong fundamentals plus consistent project building.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=azhar-data&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhar-data&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=azhar-data&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azhar-data&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution graph"/>
+  <img src="https://img.shields.io/github/last-commit/azhar-data/ARROWSTACK?style=for-the-badge&label=ARROWSTACK%20LAST%20COMMIT&color=0ea5e9" alt="ARROWSTACK last commit"/>
+  <img src="https://img.shields.io/github/last-commit/azhar-data/Portfolio?style=for-the-badge&label=PORTFOLIO%20LAST%20COMMIT&color=6366f1" alt="Portfolio last commit"/>
 </p>
 
 ---
@@ -261,5 +257,5 @@ Voice / UI Response
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Muhammad Azhar footer" />
+  <img src="https://raw.githubusercontent.com/azhar-data/azhar-data/main/assets/footer.svg" width="100%" alt="Muhammad Azhar footer" />
 </p>
