@@ -248,7 +248,7 @@ Voice / UI Response
   <a href="https://github.com/azhar-data">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:azhararain8012@gmail.com">
+  <a href="mailto:contactbyazhar8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/azhar-data/Portfolio">
