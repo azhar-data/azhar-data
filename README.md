@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azhar-data&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://profile-counter.glitch.me/azhar-data/count.svg" alt="Profile views counter"/>
   <img src="https://img.shields.io/github/followers/azhar-data?label=Followers&style=flat-square&color=6366f1" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/azhar-data?affiliations=OWNER&style=flat-square&label=Total%20Stars&color=8b5cf6" alt="GitHub stars"/>
 </p>
