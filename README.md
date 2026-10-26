@@ -21,7 +21,7 @@
   <a href="mailto:azhararain8012@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/azhar-data/Portfolio">
+  <a href="https://azhararain8012a.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -110,7 +110,7 @@ My public portfolio project showcasing projects, development work, and my learni
 ![Portfolio](https://img.shields.io/badge/Portfolio-Public-14B8A6?style=flat-square)
 ![Web](https://img.shields.io/badge/Showcase-Projects-F59E0B?style=flat-square)
 
-<a href="https://github.com/azhar-data/Portfolio"><b>View Portfolio →</b></a>
+<a href="https://azhararain8012a.github.io/Portfolio/"><b>View Portfolio →</b></a>
 
 </td>
 <td width="50%" valign="top">
@@ -251,7 +251,7 @@ Voice / UI Response
   <a href="mailto:contactbyazhar8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/azhar-data/Portfolio">
+  <a href="https://azhararain8012a.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
