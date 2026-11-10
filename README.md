@@ -21,9 +21,6 @@
   <a href="mailto:azhararain8012@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://azhararain8012a.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 ---
@@ -101,18 +98,6 @@ A public development project focused on building and shipping practical software
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio
-
-My public portfolio project showcasing projects, development work, and my learning journey.
-
-![Portfolio](https://img.shields.io/badge/Portfolio-Public-14B8A6?style=flat-square)
-![Web](https://img.shields.io/badge/Showcase-Projects-F59E0B?style=flat-square)
-
-<a href="https://azhararain8012a.github.io/Portfolio/"><b>View Portfolio →</b></a>
-
-</td>
 <td width="50%" valign="top">
 
 ### 🧠 Next AI Projects
@@ -227,7 +212,6 @@ Strong fundamentals plus consistent project building.
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/azhar-data/ARROWSTACK?style=for-the-badge&label=ARROWSTACK%20LAST%20COMMIT&color=0ea5e9" alt="ARROWSTACK last commit"/>
-  <img src="https://img.shields.io/github/last-commit/azhar-data/Portfolio?style=for-the-badge&label=PORTFOLIO%20LAST%20COMMIT&color=6366f1" alt="Portfolio last commit"/>
 </p>
 
 ---
@@ -276,9 +260,6 @@ Voice / UI Response
   </a>
   <a href="mailto:contactbyazhar8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://azhararain8012a.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
