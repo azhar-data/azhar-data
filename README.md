@@ -125,6 +125,32 @@ I’m building toward a GitHub profile that demonstrates complete systems—not 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ DragShift — Desktop File Studio
+
+A Windows desktop file toolbox for converting, compressing and editing images and PDFs through one dashboard. Includes batch workflows, searchable history and an optional Shift + drag quick menu.
+
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![UI](https://img.shields.io/badge/UI-PySide6-6C63FF?style=flat-square)
+
+<a href="https://github.com/azhar-data/dragshift_tool_v2"><b>Explore DragShift →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Next AI Projects
+
+More projects are on the way across:
+
+**Machine Learning · Computer Vision · NLP · AI Automation**
+
+I’m building toward a GitHub profile that demonstrates complete systems—not only notebooks.
+
+</td>
+</tr>
 </table>
 
 ---
