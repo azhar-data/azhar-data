@@ -18,8 +18,11 @@
   <a href="https://github.com/azhar-data">
     <img src="https://img.shields.io/badge/GitHub-azhar--data-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:azhararain8012@gmail.com">
+  <a href="mailto:contactbyazhar8@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="tel:+923366958012">
+    <img src="https://img.shields.io/badge/Phone-%2B92--336--6958012-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone: +92 336 6958012"/>
+  </a>
   </a>
 </p>
 
@@ -260,6 +263,9 @@ Voice / UI Response
   </a>
   <a href="mailto:contactbyazhar8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="tel:+923366958012">
+    <img src="https://img.shields.io/badge/Phone-%2B92--336--6958012-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone: +92 336 6958012"/>
+  </a>
   </a>
 </p>
 
